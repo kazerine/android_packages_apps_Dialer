@@ -18,5 +18,6 @@
 <!--Allow recording for country: Spain-->
 <!--Legal precedent source: http://www.legalisconsultores.es/2014/04/es-legal-realizar-grabacionesse-pueden-aportar-como-prueba-en-juicios/ -->
 <resources>
+    <bool name="call_recording_enabled">true</bool>
 
 </resources>

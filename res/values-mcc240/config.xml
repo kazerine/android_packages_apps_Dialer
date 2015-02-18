@@ -18,5 +18,6 @@
 <!--Allow recording for country: Sweden-->
 <!--Legal precedent source: https://lagen.nu/begrepp/Olovlig_avlyssning -->
 <resources>
+    <bool name="call_recording_enabled">true</bool>
 
 </resources>

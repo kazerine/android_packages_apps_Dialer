@@ -18,5 +18,6 @@
 <!--Allow recording for country: Denmark-->
 <!--Legal precedent source: https://www.retsinformation.dk/Forms/r0710.aspx?id=164192#Kap27 -->
 <resources>
+    <bool name="call_recording_enabled">true</bool>
 
 </resources>

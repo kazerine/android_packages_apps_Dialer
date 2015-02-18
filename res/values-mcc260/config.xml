@@ -18,5 +18,6 @@
 <!--Allow recording for country: Poland-->
 <!--Legal precedent source: http://www.giodo.gov.pl/data/filemanager_pl/467.doc -->
 <resources>
+    <bool name="call_recording_enabled">true</bool>
 
 </resources>

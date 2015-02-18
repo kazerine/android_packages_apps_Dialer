@@ -18,5 +18,6 @@
 <!--Allow recording for country: Czech Republic-->
 <!--Legal precedent source: http://nalus.usoud.cz/Search/GetText.aspx?sz=1-191-05_2 -->
 <resources>
+    <bool name="call_recording_enabled">true</bool>
 
 </resources>
